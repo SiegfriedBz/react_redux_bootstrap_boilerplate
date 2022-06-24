@@ -1,3 +1,3 @@
 # React App boiler plate 
-react-redux + redux-logger middleWare + bootstrap + webpackconfig for .env files
+react-redux + redux-promise middleWare + redux-devTools + bootstrap + webpackconfig .env files
 
